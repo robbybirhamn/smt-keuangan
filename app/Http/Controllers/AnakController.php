@@ -8,6 +8,6 @@ class AnakController extends Controller
 {
     public function index()
     {
-        return "Hello";
+        return "Hello Dunia";
     }
 }
